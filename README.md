@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif)
+<img align="center" alt="baner" width="1000" src="/baner.gif" />
 <h1 align="center">Hi 👋, I'm Santiago Seisdedos</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
