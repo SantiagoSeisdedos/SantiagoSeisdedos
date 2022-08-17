@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Santiago Seisdedos</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoseisdedos&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoseisdedos" /> </p>
+<div > 
+ <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" />
+ <span align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoseisdedos&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoseisdedos" /> </span>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiagoseisdedos" alt="santiagoseisdedos" /></a> </p>
 
