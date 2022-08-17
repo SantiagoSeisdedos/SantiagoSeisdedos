@@ -1,4 +1,5 @@
-<img align="center" alt="baner" width="1000" src="/baner.gif" />
+![MasterHead](/baner.gif)
+
 <h1 align="center">Hi 👋, I'm Santiago Seisdedos</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
