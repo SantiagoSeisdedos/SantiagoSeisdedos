@@ -25,11 +25,10 @@
 
 # 📌 My Projects:
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[<img src="logo.png" width="200" />](https://starlight-project.vercel.app/ "Henry Bootcamp Individual Project")
 
+### [STARLIGHT PROJECT](https://starlight-project.vercel.app/ "Henry Bootcamp Individual Project")
 
-### [! (/logo2) [STARLIGHT PROJECT]](https://starlight-project.vercel.app/ "Henry Bootcamp Individual Project" )
 ![image](https://user-images.githubusercontent.com/82905317/185323211-90babe42-7886-4b15-8d3f-66aefe005a71.png)
 ![image](https://user-images.githubusercontent.com/82905317/185323714-f1e1250d-3bd1-4b9b-999d-bbce63717d93.png)
 
