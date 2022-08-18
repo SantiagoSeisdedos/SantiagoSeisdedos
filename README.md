@@ -30,10 +30,11 @@
 
 
 ### [Salva Mi Huella](https://salva-mi-huella.vercel.app/ "Henry Bootcamp Final Project" ) 
-![image](https://user-images.githubusercontent.com/82905317/185328723-b1754d28-0520-4b86-8b35-15183312e181.png)
-![image](https://user-images.githubusercontent.com/82905317/185325408-0145b509-4c5d-41ed-b676-fa9d4b9c4d71.png)
+![image](https://user-images.githubusercontent.com/82905317/185330610-9498bd3d-fb8b-4501-a7d2-0636dae37516.png)
 ![image](https://user-images.githubusercontent.com/82905317/185325716-dd44d456-4a19-48b0-9614-c83523ec8ea7.png)
-![image](https://user-images.githubusercontent.com/82905317/185326635-8c5f00d2-8849-49d8-8c51-06e8e325ee17.png)
+![image](https://user-images.githubusercontent.com/82905317/185332254-0eaf3c82-3e4c-49cf-b933-ec0eb15e131e.png)
+
+![image](https://user-images.githubusercontent.com/82905317/185331597-6b423109-6e12-4391-bf97-495344dabe14.png)
 ![image](https://user-images.githubusercontent.com/82905317/185327522-10a6f44f-385f-4cd9-a1b9-57c10d32895f.png)
 ![image](https://user-images.githubusercontent.com/82905317/185330050-adc5320a-5d84-4332-86e6-ba4f7429ee62.png)
 
