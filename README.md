@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a **mobile orientated catalog**<br>
+🔭 I’m currently working on a **product catalog App**<br>
 🌱 I’m currently learning **AWS**<br>
 💬 Ask me about **ReactJS, Redux, NodeJS**<br>
 📫 How to reach me **santiagoseisdedos@hotmail.com**<br>
