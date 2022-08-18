@@ -25,24 +25,24 @@
 
 # 📌 My Projects:
 
-[<img src="logo.png" width="200" />](https://starlight-project.vercel.app/ "Henry Bootcamp Individual Project")
-
 ### [STARLIGHT PROJECT](https://starlight-project.vercel.app/ "Henry Bootcamp Individual Project")
+[<img src="logo.png" width="150"/>](https://starlight-project.vercel.app/ "Henry Bootcamp Individual Project")
 
 ![image](https://user-images.githubusercontent.com/82905317/185323211-90babe42-7886-4b15-8d3f-66aefe005a71.png)
 ![image](https://user-images.githubusercontent.com/82905317/185323714-f1e1250d-3bd1-4b9b-999d-bbce63717d93.png)
+***
 
 
 ### [SALVÁ MI HUELLA](https://salva-mi-huella.vercel.app/ "Henry Bootcamp Final Project" ) 
+[<img src="logo2.png" width="150"/>](https://salva-mi-huella.vercel.app/ "Henry Bootcamp Final Project" ) 
+
 ![image](https://user-images.githubusercontent.com/82905317/185330610-9498bd3d-fb8b-4501-a7d2-0636dae37516.png)
 ![image](https://user-images.githubusercontent.com/82905317/185325716-dd44d456-4a19-48b0-9614-c83523ec8ea7.png)
 ![image](https://user-images.githubusercontent.com/82905317/185332254-0eaf3c82-3e4c-49cf-b933-ec0eb15e131e.png)
-
 ![image](https://user-images.githubusercontent.com/82905317/185331597-6b423109-6e12-4391-bf97-495344dabe14.png)
 ![image](https://user-images.githubusercontent.com/82905317/185327522-10a6f44f-385f-4cd9-a1b9-57c10d32895f.png)
 ![image](https://user-images.githubusercontent.com/82905317/185330050-adc5320a-5d84-4332-86e6-ba4f7429ee62.png)
-
-
+***
 
 
 # 📊 GitHub Stats:
