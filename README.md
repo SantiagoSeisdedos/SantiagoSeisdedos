@@ -30,6 +30,25 @@
 
 ![image](https://user-images.githubusercontent.com/82905317/185323211-90babe42-7886-4b15-8d3f-66aefe005a71.png)
 ![image](https://user-images.githubusercontent.com/82905317/185323714-f1e1250d-3bd1-4b9b-999d-bbce63717d93.png)
+
+### PROJECT DETAILS
+
+Simple app where you can filter through all the countries and get some information about them. In addition you can attach new activities, linked to the countries through the Activity Form section!
+
+Technologies applied: 
+
+🔸 ReactJS - Redux - Styled Components <br>
+🔸 Backend / Database: NodeJs - Express - PostgresSQL - Sequelize <br>
+🔸 Deploy: Heroku - Vercel <br>
+🔸 Other tools: Visual Studio - Postman - Git <br>
+
+Features:
+- Landing and Home Page
+- Countries search, sortings and multiple and combined filterings.
+- Pagination
+- Detailed card
+- Create activities in multiple countries
+
 ***
 
 
@@ -42,6 +61,35 @@
 ![image](https://user-images.githubusercontent.com/82905317/185331597-6b423109-6e12-4391-bf97-495344dabe14.png)
 ![image](https://user-images.githubusercontent.com/82905317/185327522-10a6f44f-385f-4cd9-a1b9-57c10d32895f.png)
 ![image](https://user-images.githubusercontent.com/82905317/185330050-adc5320a-5d84-4332-86e6-ba4f7429ee62.png)
+
+### PROJECT DETAILS
+
+Group project developed for Henry's Institute Bootcamp.
+Web application development to promote animal adoptions and provide support to the shelters that are responsible for their care.
+
+Outstanding project features:
+- Login using auth0 and creation of different profiles for users, shelters and administrators.
+- Searches, orderings, filters and favorites option of the animals published by the shelters.
+- PayPal integration to donate to the shelters.
+- Points reward program earned by each donation made.
+- Integrated products store to exchange for the points obtained.
+
+My most valuable contributions to the project:
+- Acknowledge the project needs and research for solutions
+- Application identity and design
+- UX
+- Developed the profile for shelter and admin users.
+- Designed the complet shelter profile and took participation on the admin and user profile design
+- Designed the Shelter Slider, News Section, Footer and the shop cards
+
+Technologies applied:
+
+• Front-End: ( Javascript, React, Redux )
+• Back-end: ( Node.JS, Express, Postman, PostgreSQL, Morgan   )
+• SCRUM & Trello
+• auth0, mui, sweetalert 2, apexcharts, EmailJs, Slick, Bootstrap, GoogleMaps, Paypal
+
+
 ***
 
 
