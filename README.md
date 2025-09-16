@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Santiago Seisdedos
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="600"/>
-</p>
+<div align="center">
+  <span style="display:inline-block; vertical-align:middle;">
+    <h1 >👋 Hi, I'm Santiago Seisdedos</h1>
+  </span>
+</div>
 
 <h3 align="center">Full Stack Developer | Web3 & AI Specialist | Passionate about Backend Architecture & Frontend Experiences</h3>
+
 
 ---
 
@@ -18,6 +19,7 @@
 - ⚡ Fun fact: My last name translates to **"six fingers"** ☝🤚
 
 ---
+
 
 ## 💻 Tech Stack (REACT - NODE - FIREBASE - TYPESCRIPT)
 
@@ -34,7 +36,9 @@
   - **Data**: CoinmarketCap, CoinGecko, Moralis, GoldRush (formerly Covalent)
 - **Design & Multimedia:** Figma, Blender, Adobe Photoshop, Illustrator, After Effects, Premiere Pro.
 
+
 ---
+
 
 ## 📌 Featured Projects
 
@@ -50,11 +54,15 @@
 - **Technical Achievements**: Solved challenges in real-time synchronization, managing concurrency, and ensuring collateral validation and private key security.
 - **Results**: Achieved **95%+ accuracy** in event detection with AI, delivering a fully automated, seamless, and scalable trading experience for users.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a0a4240-d222-4d07-bbc4-ea9d3fe004f3" />
+
+
 ### **🌟🤖 DeFi Terminal + ChatBot**
 - Built **backend services and AI-powered agents** for cross-chain operations  
 - Integrated wallets: **Keplr, Sui, Aptos, Metamask, Phantom & Privy**
 - Developed modular Node.js API to interact with smart contracts & protocols
 - Designed architecture for **automated bot-driven workflows**
+- [Live Demo](https://terminal.orbitcryptoai.com/chat)  
 
 ### **🌟 NFT Marketplace & Minting App**
 - Full-stack app: **React + Node.js + MongoDB**  
@@ -63,9 +71,9 @@
 
 ---
 
-### 🏠 **Freelance Projects**
+## 🏠 **Freelance Projects**
 
-**Texas Ranch Land – Real Estate App** (2025)
+### **Texas Ranch Land – Real Estate App** (2025)
 
 - Full-stack app for **property management**  
 - Frontend: Vite, Tailwind, Shadcn | Backend: Node.js, Express  
@@ -76,15 +84,17 @@
 
 ---
 
-### 💡 **Personal Projects**
+## 💡 **Personal Projects**
 
-**Crypto Portfolio Tracker** (2025)
+### **Crypto Portfolio Tracker** (2025)
 
 - Track crypto investments, manage PnL, plan exit strategies
 - Real time price updates.
 - Modern UI
+- [Video Demo](https://drive.google.com/file/d/1Uncq9ahReZmVayVhem1UOa-TaTbngrZL/view?usp=sharing)  
 
-**D&D DungeonMaster Dashboard** (2024)
+
+### **D&D DungeonMaster Dashboard** (2024)
 
 - Initiative tracker, real-time combat updates, monster/item/npc/player database
 - Full character & session management
